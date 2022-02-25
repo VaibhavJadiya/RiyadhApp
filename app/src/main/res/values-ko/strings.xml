@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">리야드 앱</string>
+    <string name="upcoming_events">다가오는 이벤트</string>
+
+    <string name="all">모두</string>
+    <string name="magic">마법</string>
+    <string name="technology">기술</string>
+    <string name="music">음악</string>
+    <string name="games">계략</string>
+    <string name="history">역사</string>
+
+</resources>

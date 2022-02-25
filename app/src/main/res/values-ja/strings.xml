@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">リヤドアプリ</string>
+    <string name="upcoming_events">今後のイベント</string>
+
+    <string name="all">全て</string>
+    <string name="magic">魔法</string>
+    <string name="technology">テクノロジー</string>
+    <string name="music">音楽</string>
+    <string name="games">ゲーム</string>
+    <string name="history">歴史</string>
+</resources>

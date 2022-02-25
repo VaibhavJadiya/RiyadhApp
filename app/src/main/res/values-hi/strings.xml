@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">रियाद अप्प</string>
+    <string name="upcoming_events">आने वाले कार्यक्रम</string>
+
+    <string name="all">सब</string>
+    <string name="magic">जादू</string>
+    <string name="technology">प्रौद्योगिकी</string>
+    <string name="music">संगीत</string>
+    <string name="games">खेल</string>
+    <string name="history">इतिहास</string>
+
+</resources>
